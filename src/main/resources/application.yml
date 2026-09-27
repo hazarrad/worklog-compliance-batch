@@ -17,8 +17,13 @@ spring:
 logging:
   level:
 #    org.springframework.jdbc.datasource.init: DEBUG
-#    org.springframework.batch: DEBUG
+    org.springframework.batch: DEBUG
 #    org.springframework.jdbc.core: DEBUG
 
 worklog:
-  expected-hours-per-day: 9
+  expected-hours:
+    MONDAY: 9
+    TUESDAY: 9
+    WEDNESDAY: 9
+    THURSDAY: 9
+    FRIDAY: 7
