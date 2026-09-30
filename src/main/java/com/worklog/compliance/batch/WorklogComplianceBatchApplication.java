@@ -9,8 +9,8 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 @EnableConfigurationProperties(WorklogProperties.class)
 public class WorklogComplianceBatchApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(WorklogComplianceBatchApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(WorklogComplianceBatchApplication.class, args);
+    }
 
 }

@@ -28,7 +28,10 @@ public class DailyWorklogAggregateReader {
                 GROUP BY person_name, work_date
                 ORDER BY person_name, work_date
                 """).preparedStatementSetter(ps -> ps.setLong(1, importId))
-                .rowMapper((rs, rowNum) -> new DailyWorklogAggregate(rs.getString("person_name"), rs.getObject("work_date", LocalDate.class), rs.getBigDecimal("actual_hours")))
+                .rowMapper((rs, rowNum) -> new DailyWorklogAggregate(
+                        rs.getString("person_name"),
+                        rs.getObject("work_date", LocalDate.class),
+                        rs.getBigDecimal("actual_hours")))
                 .build();
     }
 }

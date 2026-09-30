@@ -15,25 +15,12 @@ import java.nio.file.Path;
 @Configuration
 public class WorklogJsonReaderConfig {
 
-//    @Bean
-//    @StepScope
-//    public ItemStreamReader<WorklogEntry> worklogReader(ObjectMapper objectMapper, @Value("#{jobParameters['inputFile']}") String inputFile) throws Exception {
-//
-//        InputStream inputStream = Files.newInputStream(Path.of(inputFile));
-//
-//        JsonParser parser = objectMapper.getFactory().createParser(inputStream);
-//
-//        return new WorklogJsonItemReader(parser);
-//    }
-
     @Bean
     @StepScope
     public ItemStreamReader<WorklogEntry> worklogReader(@Value("#{jobParameters['inputFile']}") String inputFile) throws IOException {
 
         JsonFactory jsonFactory = new JsonFactory();
-
         JsonParser parser = jsonFactory.createParser(Path.of(inputFile).toFile());
-
         return new WorklogJsonItemReader(parser);
     }
 }

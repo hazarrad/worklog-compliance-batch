@@ -60,41 +60,33 @@ public class WorklogJsonItemReader implements ItemStreamReader<WorklogEntry> {
         JsonToken token;
 
         while ((token = parser.nextToken()) != null) {
-
             if (token == JsonToken.FIELD_NAME && "data".equals(parser.currentName())) {
 
                 token = parser.nextToken();
-
                 if (token != JsonToken.START_ARRAY) {
                     throw new IllegalStateException("Expected 'data' to contain an array");
                 }
 
                 // First array inside data is the header
                 token = parser.nextToken();
-
                 if (token != JsonToken.START_ARRAY) {
                     throw new IllegalStateException("Expected first data element to be the header");
                 }
 
                 String[] header = readRow();
-
                 initializeColumns(header);
-
                 initialized = true;
 
                 return;
             }
         }
-
         throw new IllegalStateException("JSON does not contain a 'data' array");
     }
 
     private String[] readRow() throws IOException {
 
         String[] row = new String[100];
-
         int index = 0;
-
         JsonToken token;
 
         while ((token = parser.nextToken()) != JsonToken.END_ARRAY) {
@@ -102,28 +94,22 @@ public class WorklogJsonItemReader implements ItemStreamReader<WorklogEntry> {
             if (index >= row.length) {
                 throw new IllegalStateException("JSON row contains more than " + row.length + " columns");
             }
-
             row[index++] = token == JsonToken.VALUE_NULL ? null : parser.getValueAsString();
         }
 
         String[] result = new String[index];
-
         System.arraycopy(row, 0, result, 0, index);
-
         return result;
     }
 
     private void initializeColumns(String[] header) {
 
         columnIndexes = new HashMap<>();
-
         for (int i = 0; i < header.length; i++) {
-
             if (header[i] != null) {
                 columnIndexes.put(header[i].trim(), i);
             }
         }
-
         validateRequiredColumns();
     }
 
@@ -179,7 +165,6 @@ public class WorklogJsonItemReader implements ItemStreamReader<WorklogEntry> {
 
         try {
             String normalized = value.trim().replace("\u00A0", "").replace(" ", "").replace(",", ".");
-
             return new BigDecimal(normalized);
 
         } catch (NumberFormatException e) {

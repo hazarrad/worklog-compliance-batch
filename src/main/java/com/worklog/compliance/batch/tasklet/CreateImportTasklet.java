@@ -20,9 +20,6 @@ public class CreateImportTasklet implements Tasklet {
 
     private final WorklogImportRepository importRepository;
 
-//    @Value("#{jobParameters['sourceFileId']}")
-//    private String sourceFileId;
-
     @Value("#{jobParameters['inputFile']}")
     private String inputFile;
 
@@ -33,16 +30,8 @@ public class CreateImportTasklet implements Tasklet {
             throw new IllegalArgumentException("Missing required job parameter: inputFile");
         }
 
-//        if (sourceFileId == null || sourceFileId.isBlank()) {
-//            throw new IllegalArgumentException("Missing required job parameter: sourceFileId");
-//        }
-
         JobExecution jobExecution = chunkContext.getStepContext().getStepExecution().getJobExecution();
-
-//        long importId = importRepository.create(Path.of(inputFile).getFileName().toString());
         long importId = importRepository.create(Path.of(inputFile).getFileName().toString());
-
-
         jobExecution.getExecutionContext().putLong("importId", importId);
 
         return RepeatStatus.FINISHED;
