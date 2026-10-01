@@ -1,12 +1,13 @@
 package com.worklog.compliance.batch;
 
+import com.worklog.compliance.batch.config.BatchProperties;
 import com.worklog.compliance.batch.config.WorklogProperties;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 
 @SpringBootApplication
-@EnableConfigurationProperties(WorklogProperties.class)
+@EnableConfigurationProperties({WorklogProperties.class, BatchProperties.class})
 public class WorklogComplianceBatchApplication {
 
     public static void main(String[] args) {

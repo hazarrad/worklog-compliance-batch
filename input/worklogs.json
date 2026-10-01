@@ -1,0 +1,4012 @@
+{
+  "data": [
+    [
+      "Name",
+      "Parent Key",
+      "Parent Summary",
+      "Estimation Subtask",
+      "Hours",
+      "Date"
+    ],
+    [
+      "Daniel Martin",
+      "OBEDTAG-14001",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Daniel Martin",
+      "OBEDTAG-14002",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Daniel Martin",
+      "OBEDTAG-14003",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Daniel Martin",
+      "OBEDTAG-14004",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Daniel Martin",
+      "OBEDTAG-14005",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Daniel Martin",
+      "OBEDTAG-14006",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Daniel Martin",
+      "OBEDTAG-14007",
+      "Project Task Error handling improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Daniel Martin",
+      "OBEDTAG-14008",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Daniel Martin",
+      "OBEDTAG-14009",
+      "Project Task Production bug fixing",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Daniel Martin",
+      "OBEDTAG-14010",
+      "Project Task Monitoring improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Sophie Bernard",
+      "OBEDTAG-14011",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Sophie Bernard",
+      "OBEDTAG-14012",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Sophie Bernard",
+      "OBEDTAG-14013",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Sophie Bernard",
+      "OBEDTAG-14014",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Sophie Bernard",
+      "OBEDTAG-14015",
+      "Project Task Error handling improvements",
+      "9,00",
+      "4,00",
+      "2026-09-16"
+    ],
+    [
+      "Sophie Bernard",
+      "OBEDTAG-14016",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Sophie Bernard",
+      "OBEDTAG-14017",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Sophie Bernard",
+      "OBEDTAG-14018",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Sophie Bernard",
+      "OBEDTAG-14019",
+      "Project Task Monitoring improvements",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Sophie Bernard",
+      "OBEDTAG-14020",
+      "Project Task Service refactoring",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Lucas Moreau",
+      "OBEDTAG-14021",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Lucas Moreau",
+      "OBEDTAG-14022",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Lucas Moreau",
+      "OBEDTAG-14023",
+      "Project Task Error handling improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Lucas Moreau",
+      "OBEDTAG-14024",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Lucas Moreau",
+      "OBEDTAG-14025",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Lucas Moreau",
+      "OBEDTAG-14026",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Lucas Moreau",
+      "OBEDTAG-14027",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Lucas Moreau",
+      "OBEDTAG-14028",
+      "Project Task Service refactoring",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Lucas Moreau",
+      "OBEDTAG-14029",
+      "Project Task Service refactoring",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Lucas Moreau",
+      "OBEDTAG-14030",
+      "Project Task Performance optimization",
+      "7,00",
+      "2,00",
+      "2026-09-18"
+    ],
+    [
+      "Emma Laurent",
+      "OBEDTAG-14031",
+      "Project Task Error handling improvements",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Emma Laurent",
+      "OBEDTAG-14032",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Emma Laurent",
+      "OBEDTAG-14033",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Emma Laurent",
+      "OBEDTAG-14034",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "4,00",
+      "2026-09-15"
+    ],
+    [
+      "Emma Laurent",
+      "OBEDTAG-14035",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Emma Laurent",
+      "OBEDTAG-14036",
+      "Project Task Service refactoring",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Emma Laurent",
+      "OBEDTAG-14037",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Emma Laurent",
+      "OBEDTAG-14038",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Emma Laurent",
+      "OBEDTAG-14039",
+      "Project Task Performance optimization",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Emma Laurent",
+      "OBEDTAG-14040",
+      "Project Task Security improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Thomas Dubois",
+      "OBEDTAG-14041",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Thomas Dubois",
+      "OBEDTAG-14042",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Thomas Dubois",
+      "OBEDTAG-14043",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Thomas Dubois",
+      "OBEDTAG-14044",
+      "Project Task Service refactoring",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Thomas Dubois",
+      "OBEDTAG-14045",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Thomas Dubois",
+      "OBEDTAG-14046",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Thomas Dubois",
+      "OBEDTAG-14047",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Thomas Dubois",
+      "OBEDTAG-14048",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Thomas Dubois",
+      "OBEDTAG-14049",
+      "Project Task Security improvements",
+      "7,00",
+      "5,00",
+      "2026-09-18"
+    ],
+    [
+      "Thomas Dubois",
+      "OBEDTAG-14050",
+      "Project Task Release preparation",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Chloe Simon",
+      "OBEDTAG-14051",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "7 ,00",
+      "2026-09-14"
+    ],
+    [
+      "Chloe Simon",
+      "OBEDTAG-14052",
+      "Project Task Service refactoring",
+      "9,00",
+      "2,00",
+      "2026-09-14"
+    ],
+    [
+      "Chloe Simon",
+      "OBEDTAG-14053",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Chloe Simon",
+      "OBEDTAG-14054",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Chloe Simon",
+      "OBEDTAG-14055",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Chloe Simon",
+      "OBEDTAG-14056",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Chloe Simon",
+      "OBEDTAG-14057",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Chloe Simon",
+      "OBEDTAG-14058",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Chloe Simon",
+      "OBEDTAG-14059",
+      "Project Task Release preparation",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Chloe Simon",
+      "OBEDTAG-14060",
+      "Project Task BFF API implementation",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Hugo Michel",
+      "OBEDTAG-14061",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Hugo Michel",
+      "OBEDTAG-14062",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Hugo Michel",
+      "OBEDTAG-14063",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Hugo Michel",
+      "OBEDTAG-14064",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Hugo Michel",
+      "OBEDTAG-14065",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Hugo Michel",
+      "OBEDTAG-14066",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Hugo Michel",
+      "OBEDTAG-14067",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Hugo Michel",
+      "OBEDTAG-14068",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Hugo Michel",
+      "OBEDTAG-14069",
+      "Project Task BFF API implementation",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Hugo Michel",
+      "OBEDTAG-14070",
+      "Project Task Backend validation improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Camille Leroy",
+      "OBEDTAG-14071",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Camille Leroy",
+      "OBEDTAG-14072",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Camille Leroy",
+      "OBEDTAG-14073",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Camille Leroy",
+      "OBEDTAG-14074",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Camille Leroy",
+      "OBEDTAG-14075",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Camille Leroy",
+      "OBEDTAG-14076",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Camille Leroy",
+      "OBEDTAG-14077",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Camille Leroy",
+      "OBEDTAG-14078",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Camille Leroy",
+      "OBEDTAG-14079",
+      "Project Task Backend validation improvements",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Camille Leroy",
+      "OBEDTAG-14080",
+      "Project Task API integration tests",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Nathan Garcia",
+      "OBEDTAG-14081",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Nathan Garcia",
+      "OBEDTAG-14082",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Nathan Garcia",
+      "OBEDTAG-14083",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Nathan Garcia",
+      "OBEDTAG-14084",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Nathan Garcia",
+      "OBEDTAG-14085",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Nathan Garcia",
+      "OBEDTAG-14086",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Nathan Garcia",
+      "OBEDTAG-14087",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Nathan Garcia",
+      "OBEDTAG-14088",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Nathan Garcia",
+      "OBEDTAG-14089",
+      "Project Task API integration tests",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Nathan Garcia",
+      "OBEDTAG-14090",
+      "Project Task Error handling improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Julie Robert",
+      "OBEDTAG-14091",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Julie Robert",
+      "OBEDTAG-14092",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Julie Robert",
+      "OBEDTAG-14093",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Julie Robert",
+      "OBEDTAG-14094",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Julie Robert",
+      "OBEDTAG-14095",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Julie Robert",
+      "OBEDTAG-14096",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Julie Robert",
+      "OBEDTAG-14097",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Julie Robert",
+      "OBEDTAG-14098",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Julie Robert",
+      "OBEDTAG-14099",
+      "Project Task Error handling improvements",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Julie Robert",
+      "OBEDTAG-14100",
+      "Project Task Production bug fixing",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Antoine Petit",
+      "OBEDTAG-14101",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Antoine Petit",
+      "OBEDTAG-14102",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Antoine Petit",
+      "OBEDTAG-14103",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Antoine Petit",
+      "OBEDTAG-14104",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Antoine Petit",
+      "OBEDTAG-14105",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Antoine Petit",
+      "OBEDTAG-14106",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Antoine Petit",
+      "OBEDTAG-14107",
+      "Project Task Error handling improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Antoine Petit",
+      "OBEDTAG-14108",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Antoine Petit",
+      "OBEDTAG-14109",
+      "Project Task Production bug fixing",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Antoine Petit",
+      "OBEDTAG-14110",
+      "Project Task Monitoring improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Laura Durand",
+      "OBEDTAG-14111",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Laura Durand",
+      "OBEDTAG-14112",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Laura Durand",
+      "OBEDTAG-14113",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Laura Durand",
+      "OBEDTAG-14114",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Laura Durand",
+      "OBEDTAG-14115",
+      "Project Task Error handling improvements",
+      "9,00",
+      "4,00",
+      "2026-09-16"
+    ],
+    [
+      "Laura Durand",
+      "OBEDTAG-14116",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Laura Durand",
+      "OBEDTAG-14117",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Laura Durand",
+      "OBEDTAG-14118",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Laura Durand",
+      "OBEDTAG-14119",
+      "Project Task Monitoring improvements",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Laura Durand",
+      "OBEDTAG-14120",
+      "Project Task Service refactoring",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Maxime Richard",
+      "OBEDTAG-14121",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Maxime Richard",
+      "OBEDTAG-14122",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Maxime Richard",
+      "OBEDTAG-14123",
+      "Project Task Error handling improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Maxime Richard",
+      "OBEDTAG-14124",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Maxime Richard",
+      "OBEDTAG-14125",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Maxime Richard",
+      "OBEDTAG-14126",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Maxime Richard",
+      "OBEDTAG-14127",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Maxime Richard",
+      "OBEDTAG-14128",
+      "Project Task Service refactoring",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Maxime Richard",
+      "OBEDTAG-14129",
+      "Project Task Service refactoring",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Maxime Richard",
+      "OBEDTAG-14130",
+      "Project Task Performance optimization",
+      "7,00",
+      "2,00",
+      "2026-09-18"
+    ],
+    [
+      "Clara Fontaine",
+      "OBEDTAG-14131",
+      "Project Task Error handling improvements",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Clara Fontaine",
+      "OBEDTAG-14132",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Clara Fontaine",
+      "OBEDTAG-14133",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Clara Fontaine",
+      "OBEDTAG-14134",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "4,00",
+      "2026-09-15"
+    ],
+    [
+      "Clara Fontaine",
+      "OBEDTAG-14135",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Clara Fontaine",
+      "OBEDTAG-14136",
+      "Project Task Service refactoring",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Clara Fontaine",
+      "OBEDTAG-14137",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Clara Fontaine",
+      "OBEDTAG-14138",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Clara Fontaine",
+      "OBEDTAG-14139",
+      "Project Task Performance optimization",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Clara Fontaine",
+      "OBEDTAG-14140",
+      "Project Task Security improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Louis Morel",
+      "OBEDTAG-14141",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Louis Morel",
+      "OBEDTAG-14142",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Louis Morel",
+      "OBEDTAG-14143",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Louis Morel",
+      "OBEDTAG-14144",
+      "Project Task Service refactoring",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Louis Morel",
+      "OBEDTAG-14145",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Louis Morel",
+      "OBEDTAG-14146",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Louis Morel",
+      "OBEDTAG-14147",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Louis Morel",
+      "OBEDTAG-14148",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Louis Morel",
+      "OBEDTAG-14149",
+      "Project Task Security improvements",
+      "7,00",
+      "5,00",
+      "2026-09-18"
+    ],
+    [
+      "Louis Morel",
+      "OBEDTAG-14150",
+      "Project Task Release preparation",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Manon Girard",
+      "OBEDTAG-14151",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "7 ,00",
+      "2026-09-14"
+    ],
+    [
+      "Manon Girard",
+      "OBEDTAG-14152",
+      "Project Task Service refactoring",
+      "9,00",
+      "2,00",
+      "2026-09-14"
+    ],
+    [
+      "Manon Girard",
+      "OBEDTAG-14153",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Manon Girard",
+      "OBEDTAG-14154",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Manon Girard",
+      "OBEDTAG-14155",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Manon Girard",
+      "OBEDTAG-14156",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Manon Girard",
+      "OBEDTAG-14157",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Manon Girard",
+      "OBEDTAG-14158",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Manon Girard",
+      "OBEDTAG-14159",
+      "Project Task Release preparation",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Manon Girard",
+      "OBEDTAG-14160",
+      "Project Task BFF API implementation",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Gabriel Andre",
+      "OBEDTAG-14161",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Gabriel Andre",
+      "OBEDTAG-14162",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Gabriel Andre",
+      "OBEDTAG-14163",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Gabriel Andre",
+      "OBEDTAG-14164",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Gabriel Andre",
+      "OBEDTAG-14165",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Gabriel Andre",
+      "OBEDTAG-14166",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Gabriel Andre",
+      "OBEDTAG-14167",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Gabriel Andre",
+      "OBEDTAG-14168",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Gabriel Andre",
+      "OBEDTAG-14169",
+      "Project Task BFF API implementation",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Gabriel Andre",
+      "OBEDTAG-14170",
+      "Project Task Backend validation improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Lea Mercier",
+      "OBEDTAG-14171",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Lea Mercier",
+      "OBEDTAG-14172",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Lea Mercier",
+      "OBEDTAG-14173",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Lea Mercier",
+      "OBEDTAG-14174",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Lea Mercier",
+      "OBEDTAG-14175",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Lea Mercier",
+      "OBEDTAG-14176",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Lea Mercier",
+      "OBEDTAG-14177",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Lea Mercier",
+      "OBEDTAG-14178",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Lea Mercier",
+      "OBEDTAG-14179",
+      "Project Task Backend validation improvements",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Lea Mercier",
+      "OBEDTAG-14180",
+      "Project Task API integration tests",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Arthur Blanc",
+      "OBEDTAG-14181",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Arthur Blanc",
+      "OBEDTAG-14182",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Arthur Blanc",
+      "OBEDTAG-14183",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Arthur Blanc",
+      "OBEDTAG-14184",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Arthur Blanc",
+      "OBEDTAG-14185",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Arthur Blanc",
+      "OBEDTAG-14186",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Arthur Blanc",
+      "OBEDTAG-14187",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Arthur Blanc",
+      "OBEDTAG-14188",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Arthur Blanc",
+      "OBEDTAG-14189",
+      "Project Task API integration tests",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Arthur Blanc",
+      "OBEDTAG-14190",
+      "Project Task Error handling improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Sarah Perrin",
+      "OBEDTAG-14191",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Sarah Perrin",
+      "OBEDTAG-14192",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Sarah Perrin",
+      "OBEDTAG-14193",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Sarah Perrin",
+      "OBEDTAG-14194",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Sarah Perrin",
+      "OBEDTAG-14195",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Sarah Perrin",
+      "OBEDTAG-14196",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Sarah Perrin",
+      "OBEDTAG-14197",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Sarah Perrin",
+      "OBEDTAG-14198",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Sarah Perrin",
+      "OBEDTAG-14199",
+      "Project Task Error handling improvements",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Sarah Perrin",
+      "OBEDTAG-14200",
+      "Project Task Production bug fixing",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Paul Faure",
+      "OBEDTAG-14201",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Paul Faure",
+      "OBEDTAG-14202",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Paul Faure",
+      "OBEDTAG-14203",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Paul Faure",
+      "OBEDTAG-14204",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Paul Faure",
+      "OBEDTAG-14205",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Paul Faure",
+      "OBEDTAG-14206",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Paul Faure",
+      "OBEDTAG-14207",
+      "Project Task Error handling improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Paul Faure",
+      "OBEDTAG-14208",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Paul Faure",
+      "OBEDTAG-14209",
+      "Project Task Production bug fixing",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Paul Faure",
+      "OBEDTAG-14210",
+      "Project Task Monitoring improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Elise Bonnet",
+      "OBEDTAG-14211",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Elise Bonnet",
+      "OBEDTAG-14212",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Elise Bonnet",
+      "OBEDTAG-14213",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Elise Bonnet",
+      "OBEDTAG-14214",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Elise Bonnet",
+      "OBEDTAG-14215",
+      "Project Task Error handling improvements",
+      "9,00",
+      "4,00",
+      "2026-09-16"
+    ],
+    [
+      "Elise Bonnet",
+      "OBEDTAG-14216",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Elise Bonnet",
+      "OBEDTAG-14217",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Elise Bonnet",
+      "OBEDTAG-14218",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Elise Bonnet",
+      "OBEDTAG-14219",
+      "Project Task Monitoring improvements",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Elise Bonnet",
+      "OBEDTAG-14220",
+      "Project Task Service refactoring",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Julien Gauthier",
+      "OBEDTAG-14221",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Julien Gauthier",
+      "OBEDTAG-14222",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Julien Gauthier",
+      "OBEDTAG-14223",
+      "Project Task Error handling improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Julien Gauthier",
+      "OBEDTAG-14224",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Julien Gauthier",
+      "OBEDTAG-14225",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Julien Gauthier",
+      "OBEDTAG-14226",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Julien Gauthier",
+      "OBEDTAG-14227",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Julien Gauthier",
+      "OBEDTAG-14228",
+      "Project Task Service refactoring",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Julien Gauthier",
+      "OBEDTAG-14229",
+      "Project Task Service refactoring",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Julien Gauthier",
+      "OBEDTAG-14230",
+      "Project Task Performance optimization",
+      "7,00",
+      "2,00",
+      "2026-09-18"
+    ],
+    [
+      "Alice Chevalier",
+      "OBEDTAG-14231",
+      "Project Task Error handling improvements",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Alice Chevalier",
+      "OBEDTAG-14232",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Alice Chevalier",
+      "OBEDTAG-14233",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Alice Chevalier",
+      "OBEDTAG-14234",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "4,00",
+      "2026-09-15"
+    ],
+    [
+      "Alice Chevalier",
+      "OBEDTAG-14235",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Alice Chevalier",
+      "OBEDTAG-14236",
+      "Project Task Service refactoring",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Alice Chevalier",
+      "OBEDTAG-14237",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Alice Chevalier",
+      "OBEDTAG-14238",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Alice Chevalier",
+      "OBEDTAG-14239",
+      "Project Task Performance optimization",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Alice Chevalier",
+      "OBEDTAG-14240",
+      "Project Task Security improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Nicolas Rousseau",
+      "OBEDTAG-14241",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Nicolas Rousseau",
+      "OBEDTAG-14242",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Nicolas Rousseau",
+      "OBEDTAG-14243",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Nicolas Rousseau",
+      "OBEDTAG-14244",
+      "Project Task Service refactoring",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Nicolas Rousseau",
+      "OBEDTAG-14245",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Nicolas Rousseau",
+      "OBEDTAG-14246",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Nicolas Rousseau",
+      "OBEDTAG-14247",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Nicolas Rousseau",
+      "OBEDTAG-14248",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Nicolas Rousseau",
+      "OBEDTAG-14249",
+      "Project Task Security improvements",
+      "7,00",
+      "5,00",
+      "2026-09-18"
+    ],
+    [
+      "Nicolas Rousseau",
+      "OBEDTAG-14250",
+      "Project Task Release preparation",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Marie Vincent",
+      "OBEDTAG-14251",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "7 ,00",
+      "2026-09-14"
+    ],
+    [
+      "Marie Vincent",
+      "OBEDTAG-14252",
+      "Project Task Service refactoring",
+      "9,00",
+      "2,00",
+      "2026-09-14"
+    ],
+    [
+      "Marie Vincent",
+      "OBEDTAG-14253",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Marie Vincent",
+      "OBEDTAG-14254",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Marie Vincent",
+      "OBEDTAG-14255",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Marie Vincent",
+      "OBEDTAG-14256",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Marie Vincent",
+      "OBEDTAG-14257",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Marie Vincent",
+      "OBEDTAG-14258",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Marie Vincent",
+      "OBEDTAG-14259",
+      "Project Task Release preparation",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Marie Vincent",
+      "OBEDTAG-14260",
+      "Project Task BFF API implementation",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Alexandre Masson",
+      "OBEDTAG-14261",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Alexandre Masson",
+      "OBEDTAG-14262",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Alexandre Masson",
+      "OBEDTAG-14263",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Alexandre Masson",
+      "OBEDTAG-14264",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Alexandre Masson",
+      "OBEDTAG-14265",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Alexandre Masson",
+      "OBEDTAG-14266",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Alexandre Masson",
+      "OBEDTAG-14267",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Alexandre Masson",
+      "OBEDTAG-14268",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Alexandre Masson",
+      "OBEDTAG-14269",
+      "Project Task BFF API implementation",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Alexandre Masson",
+      "OBEDTAG-14270",
+      "Project Task Backend validation improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Ines Fournier",
+      "OBEDTAG-14271",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Ines Fournier",
+      "OBEDTAG-14272",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Ines Fournier",
+      "OBEDTAG-14273",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Ines Fournier",
+      "OBEDTAG-14274",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Ines Fournier",
+      "OBEDTAG-14275",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Ines Fournier",
+      "OBEDTAG-14276",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Ines Fournier",
+      "OBEDTAG-14277",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Ines Fournier",
+      "OBEDTAG-14278",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Ines Fournier",
+      "OBEDTAG-14279",
+      "Project Task Backend validation improvements",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Ines Fournier",
+      "OBEDTAG-14280",
+      "Project Task API integration tests",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Victor Lambert",
+      "OBEDTAG-14281",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Victor Lambert",
+      "OBEDTAG-14282",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Victor Lambert",
+      "OBEDTAG-14283",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Victor Lambert",
+      "OBEDTAG-14284",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Victor Lambert",
+      "OBEDTAG-14285",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Victor Lambert",
+      "OBEDTAG-14286",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Victor Lambert",
+      "OBEDTAG-14287",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Victor Lambert",
+      "OBEDTAG-14288",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Victor Lambert",
+      "OBEDTAG-14289",
+      "Project Task API integration tests",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Victor Lambert",
+      "OBEDTAG-14290",
+      "Project Task Error handling improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Amelie Henry",
+      "OBEDTAG-14291",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Amelie Henry",
+      "OBEDTAG-14292",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Amelie Henry",
+      "OBEDTAG-14293",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Amelie Henry",
+      "OBEDTAG-14294",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Amelie Henry",
+      "OBEDTAG-14295",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Amelie Henry",
+      "OBEDTAG-14296",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Amelie Henry",
+      "OBEDTAG-14297",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Amelie Henry",
+      "OBEDTAG-14298",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Amelie Henry",
+      "OBEDTAG-14299",
+      "Project Task Error handling improvements",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Amelie Henry",
+      "OBEDTAG-14300",
+      "Project Task Production bug fixing",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Romain Dupont",
+      "OBEDTAG-14301",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Romain Dupont",
+      "OBEDTAG-14302",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Romain Dupont",
+      "OBEDTAG-14303",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Romain Dupont",
+      "OBEDTAG-14304",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Romain Dupont",
+      "OBEDTAG-14305",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Romain Dupont",
+      "OBEDTAG-14306",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Romain Dupont",
+      "OBEDTAG-14307",
+      "Project Task Error handling improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Romain Dupont",
+      "OBEDTAG-14308",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Romain Dupont",
+      "OBEDTAG-14309",
+      "Project Task Production bug fixing",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Romain Dupont",
+      "OBEDTAG-14310",
+      "Project Task Monitoring improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Charlotte Lopez",
+      "OBEDTAG-14311",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Charlotte Lopez",
+      "OBEDTAG-14312",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Charlotte Lopez",
+      "OBEDTAG-14313",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Charlotte Lopez",
+      "OBEDTAG-14314",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Charlotte Lopez",
+      "OBEDTAG-14315",
+      "Project Task Error handling improvements",
+      "9,00",
+      "4,00",
+      "2026-09-16"
+    ],
+    [
+      "Charlotte Lopez",
+      "OBEDTAG-14316",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Charlotte Lopez",
+      "OBEDTAG-14317",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Charlotte Lopez",
+      "OBEDTAG-14318",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Charlotte Lopez",
+      "OBEDTAG-14319",
+      "Project Task Monitoring improvements",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Charlotte Lopez",
+      "OBEDTAG-14320",
+      "Project Task Service refactoring",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Martin Lefevre",
+      "OBEDTAG-14321",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Martin Lefevre",
+      "OBEDTAG-14322",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Martin Lefevre",
+      "OBEDTAG-14323",
+      "Project Task Error handling improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Martin Lefevre",
+      "OBEDTAG-14324",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Martin Lefevre",
+      "OBEDTAG-14325",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Martin Lefevre",
+      "OBEDTAG-14326",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Martin Lefevre",
+      "OBEDTAG-14327",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Martin Lefevre",
+      "OBEDTAG-14328",
+      "Project Task Service refactoring",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Martin Lefevre",
+      "OBEDTAG-14329",
+      "Project Task Service refactoring",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Martin Lefevre",
+      "OBEDTAG-14330",
+      "Project Task Performance optimization",
+      "7,00",
+      "2,00",
+      "2026-09-18"
+    ],
+    [
+      "Eva Renaud",
+      "OBEDTAG-14331",
+      "Project Task Error handling improvements",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Eva Renaud",
+      "OBEDTAG-14332",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Eva Renaud",
+      "OBEDTAG-14333",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Eva Renaud",
+      "OBEDTAG-14334",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "4,00",
+      "2026-09-15"
+    ],
+    [
+      "Eva Renaud",
+      "OBEDTAG-14335",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Eva Renaud",
+      "OBEDTAG-14336",
+      "Project Task Service refactoring",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Eva Renaud",
+      "OBEDTAG-14337",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Eva Renaud",
+      "OBEDTAG-14338",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Eva Renaud",
+      "OBEDTAG-14339",
+      "Project Task Performance optimization",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Eva Renaud",
+      "OBEDTAG-14340",
+      "Project Task Security improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Benjamin Caron",
+      "OBEDTAG-14341",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Benjamin Caron",
+      "OBEDTAG-14342",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Benjamin Caron",
+      "OBEDTAG-14343",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Benjamin Caron",
+      "OBEDTAG-14344",
+      "Project Task Service refactoring",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Benjamin Caron",
+      "OBEDTAG-14345",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Benjamin Caron",
+      "OBEDTAG-14346",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Benjamin Caron",
+      "OBEDTAG-14347",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Benjamin Caron",
+      "OBEDTAG-14348",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Benjamin Caron",
+      "OBEDTAG-14349",
+      "Project Task Security improvements",
+      "7,00",
+      "5,00",
+      "2026-09-18"
+    ],
+    [
+      "Benjamin Caron",
+      "OBEDTAG-14350",
+      "Project Task Release preparation",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Louise Marchand",
+      "OBEDTAG-14351",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "7 ,00",
+      "2026-09-14"
+    ],
+    [
+      "Louise Marchand",
+      "OBEDTAG-14352",
+      "Project Task Service refactoring",
+      "9,00",
+      "2,00",
+      "2026-09-14"
+    ],
+    [
+      "Louise Marchand",
+      "OBEDTAG-14353",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Louise Marchand",
+      "OBEDTAG-14354",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Louise Marchand",
+      "OBEDTAG-14355",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Louise Marchand",
+      "OBEDTAG-14356",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Louise Marchand",
+      "OBEDTAG-14357",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Louise Marchand",
+      "OBEDTAG-14358",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Louise Marchand",
+      "OBEDTAG-14359",
+      "Project Task Release preparation",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Louise Marchand",
+      "OBEDTAG-14360",
+      "Project Task BFF API implementation",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Pierre Barbier",
+      "OBEDTAG-14361",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Pierre Barbier",
+      "OBEDTAG-14362",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Pierre Barbier",
+      "OBEDTAG-14363",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Pierre Barbier",
+      "OBEDTAG-14364",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Pierre Barbier",
+      "OBEDTAG-14365",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Pierre Barbier",
+      "OBEDTAG-14366",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Pierre Barbier",
+      "OBEDTAG-14367",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Pierre Barbier",
+      "OBEDTAG-14368",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Pierre Barbier",
+      "OBEDTAG-14369",
+      "Project Task BFF API implementation",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Pierre Barbier",
+      "OBEDTAG-14370",
+      "Project Task Backend validation improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Anais Mathieu",
+      "OBEDTAG-14371",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Anais Mathieu",
+      "OBEDTAG-14372",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Anais Mathieu",
+      "OBEDTAG-14373",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Anais Mathieu",
+      "OBEDTAG-14374",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Anais Mathieu",
+      "OBEDTAG-14375",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Anais Mathieu",
+      "OBEDTAG-14376",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Anais Mathieu",
+      "OBEDTAG-14377",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Anais Mathieu",
+      "OBEDTAG-14378",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Anais Mathieu",
+      "OBEDTAG-14379",
+      "Project Task Backend validation improvements",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Anais Mathieu",
+      "OBEDTAG-14380",
+      "Project Task API integration tests",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Theo Perrier",
+      "OBEDTAG-14381",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Theo Perrier",
+      "OBEDTAG-14382",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Theo Perrier",
+      "OBEDTAG-14383",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Theo Perrier",
+      "OBEDTAG-14384",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Theo Perrier",
+      "OBEDTAG-14385",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Theo Perrier",
+      "OBEDTAG-14386",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Theo Perrier",
+      "OBEDTAG-14387",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Theo Perrier",
+      "OBEDTAG-14388",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Theo Perrier",
+      "OBEDTAG-14389",
+      "Project Task API integration tests",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Theo Perrier",
+      "OBEDTAG-14390",
+      "Project Task Error handling improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Jeanne Robin",
+      "OBEDTAG-14391",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Jeanne Robin",
+      "OBEDTAG-14392",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Jeanne Robin",
+      "OBEDTAG-14393",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Jeanne Robin",
+      "OBEDTAG-14394",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Jeanne Robin",
+      "OBEDTAG-14395",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Jeanne Robin",
+      "OBEDTAG-14396",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Jeanne Robin",
+      "OBEDTAG-14397",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Jeanne Robin",
+      "OBEDTAG-14398",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Jeanne Robin",
+      "OBEDTAG-14399",
+      "Project Task Error handling improvements",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Jeanne Robin",
+      "OBEDTAG-14400",
+      "Project Task Production bug fixing",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Samuel Boucher",
+      "OBEDTAG-14401",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Samuel Boucher",
+      "OBEDTAG-14402",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Samuel Boucher",
+      "OBEDTAG-14403",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Samuel Boucher",
+      "OBEDTAG-14404",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Samuel Boucher",
+      "OBEDTAG-14405",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Samuel Boucher",
+      "OBEDTAG-14406",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Samuel Boucher",
+      "OBEDTAG-14407",
+      "Project Task Error handling improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Samuel Boucher",
+      "OBEDTAG-14408",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Samuel Boucher",
+      "OBEDTAG-14409",
+      "Project Task Production bug fixing",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Samuel Boucher",
+      "OBEDTAG-14410",
+      "Project Task Monitoring improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Margot Noel",
+      "OBEDTAG-14411",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Margot Noel",
+      "OBEDTAG-14412",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Margot Noel",
+      "OBEDTAG-14413",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Margot Noel",
+      "OBEDTAG-14414",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Margot Noel",
+      "OBEDTAG-14415",
+      "Project Task Error handling improvements",
+      "9,00",
+      "4,00",
+      "2026-09-16"
+    ],
+    [
+      "Margot Noel",
+      "OBEDTAG-14416",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Margot Noel",
+      "OBEDTAG-14417",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Margot Noel",
+      "OBEDTAG-14418",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Margot Noel",
+      "OBEDTAG-14419",
+      "Project Task Monitoring improvements",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Margot Noel",
+      "OBEDTAG-14420",
+      "Project Task Service refactoring",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Ethan Collet",
+      "OBEDTAG-14421",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Ethan Collet",
+      "OBEDTAG-14422",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Ethan Collet",
+      "OBEDTAG-14423",
+      "Project Task Error handling improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Ethan Collet",
+      "OBEDTAG-14424",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Ethan Collet",
+      "OBEDTAG-14425",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Ethan Collet",
+      "OBEDTAG-14426",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Ethan Collet",
+      "OBEDTAG-14427",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Ethan Collet",
+      "OBEDTAG-14428",
+      "Project Task Service refactoring",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Ethan Collet",
+      "OBEDTAG-14429",
+      "Project Task Service refactoring",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Ethan Collet",
+      "OBEDTAG-14430",
+      "Project Task Performance optimization",
+      "7,00",
+      "2,00",
+      "2026-09-18"
+    ],
+    [
+      "Celine Legrand",
+      "OBEDTAG-14431",
+      "Project Task Error handling improvements",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Celine Legrand",
+      "OBEDTAG-14432",
+      "Project Task Production bug fixing",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Celine Legrand",
+      "OBEDTAG-14433",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Celine Legrand",
+      "OBEDTAG-14434",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "4,00",
+      "2026-09-15"
+    ],
+    [
+      "Celine Legrand",
+      "OBEDTAG-14435",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Celine Legrand",
+      "OBEDTAG-14436",
+      "Project Task Service refactoring",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Celine Legrand",
+      "OBEDTAG-14437",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Celine Legrand",
+      "OBEDTAG-14438",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Celine Legrand",
+      "OBEDTAG-14439",
+      "Project Task Performance optimization",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Celine Legrand",
+      "OBEDTAG-14440",
+      "Project Task Security improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Mathis Roy",
+      "OBEDTAG-14441",
+      "Project Task Production bug fixing",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Mathis Roy",
+      "OBEDTAG-14442",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Mathis Roy",
+      "OBEDTAG-14443",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Mathis Roy",
+      "OBEDTAG-14444",
+      "Project Task Service refactoring",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Mathis Roy",
+      "OBEDTAG-14445",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Mathis Roy",
+      "OBEDTAG-14446",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Mathis Roy",
+      "OBEDTAG-14447",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Mathis Roy",
+      "OBEDTAG-14448",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Mathis Roy",
+      "OBEDTAG-14449",
+      "Project Task Security improvements",
+      "7,00",
+      "5,00",
+      "2026-09-18"
+    ],
+    [
+      "Mathis Roy",
+      "OBEDTAG-14450",
+      "Project Task Release preparation",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Pauline Guillon",
+      "OBEDTAG-14451",
+      "Project Task Monitoring improvements",
+      "9,00",
+      "7 ,00",
+      "2026-09-14"
+    ],
+    [
+      "Pauline Guillon",
+      "OBEDTAG-14452",
+      "Project Task Service refactoring",
+      "9,00",
+      "2,00",
+      "2026-09-14"
+    ],
+    [
+      "Pauline Guillon",
+      "OBEDTAG-14453",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Pauline Guillon",
+      "OBEDTAG-14454",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Pauline Guillon",
+      "OBEDTAG-14455",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Pauline Guillon",
+      "OBEDTAG-14456",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Pauline Guillon",
+      "OBEDTAG-14457",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Pauline Guillon",
+      "OBEDTAG-14458",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Pauline Guillon",
+      "OBEDTAG-14459",
+      "Project Task Release preparation",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Pauline Guillon",
+      "OBEDTAG-14460",
+      "Project Task BFF API implementation",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Adrien Moulin",
+      "OBEDTAG-14461",
+      "Project Task Service refactoring",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Adrien Moulin",
+      "OBEDTAG-14462",
+      "Project Task Performance optimization",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Adrien Moulin",
+      "OBEDTAG-14463",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Adrien Moulin",
+      "OBEDTAG-14464",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Adrien Moulin",
+      "OBEDTAG-14465",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Adrien Moulin",
+      "OBEDTAG-14466",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Adrien Moulin",
+      "OBEDTAG-14467",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Adrien Moulin",
+      "OBEDTAG-14468",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Adrien Moulin",
+      "OBEDTAG-14469",
+      "Project Task BFF API implementation",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Adrien Moulin",
+      "OBEDTAG-14470",
+      "Project Task Backend validation improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Helene Aubert",
+      "OBEDTAG-14471",
+      "Project Task Performance optimization",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Helene Aubert",
+      "OBEDTAG-14472",
+      "Project Task Security improvements",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Helene Aubert",
+      "OBEDTAG-14473",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Helene Aubert",
+      "OBEDTAG-14474",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Helene Aubert",
+      "OBEDTAG-14475",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Helene Aubert",
+      "OBEDTAG-14476",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Helene Aubert",
+      "OBEDTAG-14477",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Helene Aubert",
+      "OBEDTAG-14478",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Helene Aubert",
+      "OBEDTAG-14479",
+      "Project Task Backend validation improvements",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Helene Aubert",
+      "OBEDTAG-14480",
+      "Project Task API integration tests",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Kevin Dumas",
+      "OBEDTAG-14481",
+      "Project Task Security improvements",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Kevin Dumas",
+      "OBEDTAG-14482",
+      "Project Task Release preparation",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Kevin Dumas",
+      "OBEDTAG-14483",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Kevin Dumas",
+      "OBEDTAG-14484",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Kevin Dumas",
+      "OBEDTAG-14485",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Kevin Dumas",
+      "OBEDTAG-14486",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Kevin Dumas",
+      "OBEDTAG-14487",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Kevin Dumas",
+      "OBEDTAG-14488",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Kevin Dumas",
+      "OBEDTAG-14489",
+      "Project Task API integration tests",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Kevin Dumas",
+      "OBEDTAG-14490",
+      "Project Task Error handling improvements",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ],
+    [
+      "Valentine Weber",
+      "OBEDTAG-14491",
+      "Project Task Release preparation",
+      "9,00",
+      "6,00",
+      "2026-09-14"
+    ],
+    [
+      "Valentine Weber",
+      "OBEDTAG-14492",
+      "Project Task BFF API implementation",
+      "9,00",
+      "3,00",
+      "2026-09-14"
+    ],
+    [
+      "Valentine Weber",
+      "OBEDTAG-14493",
+      "Project Task BFF API implementation",
+      "9,00",
+      "6,00",
+      "2026-09-15"
+    ],
+    [
+      "Valentine Weber",
+      "OBEDTAG-14494",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "3,00",
+      "2026-09-15"
+    ],
+    [
+      "Valentine Weber",
+      "OBEDTAG-14495",
+      "Project Task Backend validation improvements",
+      "9,00",
+      "6,00",
+      "2026-09-16"
+    ],
+    [
+      "Valentine Weber",
+      "OBEDTAG-14496",
+      "Project Task API integration tests",
+      "9,00",
+      "3,00",
+      "2026-09-16"
+    ],
+    [
+      "Valentine Weber",
+      "OBEDTAG-14497",
+      "Project Task API integration tests",
+      "9,00",
+      "6,00",
+      "2026-09-17"
+    ],
+    [
+      "Valentine Weber",
+      "OBEDTAG-14498",
+      "Project Task Error handling improvements",
+      "9,00",
+      "3,00",
+      "2026-09-17"
+    ],
+    [
+      "Valentine Weber",
+      "OBEDTAG-14499",
+      "Project Task Error handling improvements",
+      "7,00",
+      "4,00",
+      "2026-09-18"
+    ],
+    [
+      "Valentine Weber",
+      "OBEDTAG-14500",
+      "Project Task Production bug fixing",
+      "7,00",
+      "3,00",
+      "2026-09-18"
+    ]
+  ]
+}

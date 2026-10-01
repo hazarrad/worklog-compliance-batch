@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/worklog
     username: postgres
-    password: prefab2022
+    password: postgres
 
   batch:
     job:
@@ -19,6 +19,13 @@ logging:
 #    org.springframework.jdbc.datasource.init: DEBUG
     org.springframework.batch: DEBUG
 #    org.springframework.jdbc.core: DEBUG
+
+batch:
+  chunksize: 500
+  skipLimit: 100
+  corepool: 32
+  maxpool: 32
+  queuelimit: 500
 
 worklog:
   expected-hours:

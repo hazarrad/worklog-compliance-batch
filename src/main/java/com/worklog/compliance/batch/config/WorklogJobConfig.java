@@ -50,24 +50,24 @@ public class WorklogJobConfig {
     }
 
     @Bean
-    public Step importWorklogsStep(ItemStreamReader<WorklogEntry> worklogReader, WorklogEntryWriter worklogWriter, WorklogSkipListener worklogSkipListener, WorklogImportStepListener worklogImportStepListener) {
+    public Step importWorklogsStep(ItemStreamReader<WorklogEntry> worklogReader, WorklogEntryWriter worklogWriter, WorklogSkipListener worklogSkipListener, WorklogImportStepListener worklogImportStepListener, BatchProperties batchProperties) {
         return new StepBuilder("importWorklogsStep", jobRepository)
-                .<WorklogEntry, WorklogEntry>chunk(10)
+                .<WorklogEntry, WorklogEntry>chunk(batchProperties.chunksize())
                 .transactionManager(transactionManager)
                 .reader(worklogReader)
                 .writer(worklogWriter)
                 .faultTolerant()
                 .skip(InvalidWorklogRowException.class)
-                .skipLimit(1000)
+                .skipLimit(batchProperties.skipLimit())
                 .listener(worklogSkipListener)
                 .listener(worklogImportStepListener)
                 .build();
     }
 
     @Bean
-    public Step dailySummaryStep(JdbcCursorItemReader<DailyWorklogAggregate> reader, DailyWorklogProcessor processor, DailyWorklogSummaryWriter writer) {
+    public Step dailySummaryStep(JdbcCursorItemReader<DailyWorklogAggregate> reader, DailyWorklogProcessor processor, DailyWorklogSummaryWriter writer, BatchProperties batchProperties) {
         return new StepBuilder("dailySummaryStep", jobRepository)
-                .<DailyWorklogAggregate, DailyWorklogSummary>chunk(10)
+                .<DailyWorklogAggregate, DailyWorklogSummary>chunk(batchProperties.chunksize())
                 .transactionManager(transactionManager)
                 .reader(reader)
                 .processor(processor)
